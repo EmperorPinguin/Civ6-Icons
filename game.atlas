@@ -4,77 +4,77 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-LeaderPortraits/Abraham Lincoln
+LeaderIcons/Abraham Lincoln
   rotate: false
   xy: 4, 1068
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Alexander
+LeaderIcons/Alexander
   rotate: false
   xy: 1052, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Amanitore
+LeaderIcons/Amanitore
   rotate: false
   xy: 1316, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Ambiorix
+LeaderIcons/Ambiorix
   rotate: false
   xy: 1580, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Ba Trieu
+LeaderIcons/Ba Trieu
   rotate: false
   xy: 268, 540
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Basil II
+LeaderIcons/Basil II
   rotate: false
   xy: 268, 12
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Catherine de Medici
+LeaderIcons/Catherine de Medici
   rotate: false
   xy: 1060, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Chandragupta
+LeaderIcons/Chandragupta
   rotate: false
   xy: 796, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Cleopatra
+LeaderIcons/Cleopatra
   rotate: false
   xy: 1324, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Cyrus
+LeaderIcons/Cyrus
   rotate: false
   xy: 1588, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Dido
+LeaderIcons/Dido
   rotate: false
   xy: 1324, 4
   size: 256, 256
@@ -332,119 +332,119 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-LeaderPortraits/Frederick Barbarossa
+LeaderIcons/Frederick Barbarossa
   rotate: false
   xy: 532, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Gandhi
+LeaderIcons/Gandhi
   rotate: false
   xy: 4, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Genghis Khan
+LeaderIcons/Genghis Khan
   rotate: false
   xy: 268, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Gilgamesh
+LeaderIcons/Gilgamesh
   rotate: false
   xy: 796, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Gitarja
+LeaderIcons/Gitarja
   rotate: false
   xy: 1060, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Gorgo
+LeaderIcons/Gorgo
   rotate: false
   xy: 532, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Hammurabi
+LeaderIcons/Hammurabi
   rotate: false
   xy: 268, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Harald Hardrada
+LeaderIcons/Harald Hardrada
   rotate: false
   xy: 796, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Hojo Tokimune
+LeaderIcons/Hojo Tokimune
   rotate: false
   xy: 1588, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Jadwiga
+LeaderIcons/Jadwiga
   rotate: false
   xy: 1588, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Jayavarman VII
+LeaderIcons/Jayavarman VII
   rotate: false
   xy: 796, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Joao III
+LeaderIcons/Joao III
   rotate: false
   xy: 1324, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/John Curtin
+LeaderIcons/John Curtin
   rotate: false
   xy: 1588, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Julius Caesar
+LeaderIcons/Julius Caesar
   rotate: false
   xy: 1060, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Kristina
+LeaderIcons/Kristina
   rotate: false
   xy: 1588, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Kupe
+LeaderIcons/Kupe
   rotate: false
   xy: 1324, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Lady Six Sky
+LeaderIcons/Lady Six Sky
   rotate: false
   xy: 1588, 4
   size: 256, 256
@@ -681,98 +681,98 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-LeaderPortraits/Lautaro
+LeaderIcons/Lautaro
   rotate: false
   xy: 4, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Mansa Musa
+LeaderIcons/Mansa Musa
   rotate: false
   xy: 4, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Matthias Corvinus
+LeaderIcons/Matthias Corvinus
   rotate: false
   xy: 532, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Menelik II
+LeaderIcons/Menelik II
   rotate: false
   xy: 268, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Montezuma
+LeaderIcons/Montezuma
   rotate: false
   xy: 532, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Mvemba a Nzinga
+LeaderIcons/Mvemba a Nzinga
   rotate: false
   xy: 1060, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Nader Shah
+LeaderIcons/Nader Shah
   rotate: false
   xy: 1324, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Nzinga Mbande
+LeaderIcons/Nzinga Mbande
   rotate: false
   xy: 1060, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Pachacuti
+LeaderIcons/Pachacuti
   rotate: false
   xy: 1060, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Pedro II
+LeaderIcons/Pedro II
   rotate: false
   xy: 1060, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Pericles
+LeaderIcons/Pericles
   rotate: false
   xy: 1588, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Peter
+LeaderIcons/Peter
   rotate: false
   xy: 1060, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Philip II
+LeaderIcons/Philip II
   rotate: false
   xy: 1324, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Poundmaker
+LeaderIcons/Poundmaker
   rotate: false
   xy: 1588, 268
   size: 256, 256
@@ -1030,105 +1030,105 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-LeaderPortraits/Qin Shi Huang
+LeaderIcons/Qin Shi Huang
   rotate: false
   xy: 4, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Ramses II
+LeaderIcons/Ramses II
   rotate: false
   xy: 268, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Robert the Bruce
+LeaderIcons/Robert the Bruce
   rotate: false
   xy: 4, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Saladin
+LeaderIcons/Saladin
   rotate: false
   xy: 532, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Seondeok
+LeaderIcons/Seondeok
   rotate: false
   xy: 532, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Shaka
+LeaderIcons/Shaka
   rotate: false
   xy: 1060, 1588
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Simon Bolivar
+LeaderIcons/Simon Bolivar
   rotate: false
   xy: 1060, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Suleiman
+LeaderIcons/Suleiman
   rotate: false
   xy: 796, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Sundiata Keita
+LeaderIcons/Sundiata Keita
   rotate: false
   xy: 1060, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Tamar
+LeaderIcons/Tamar
   rotate: false
   xy: 1324, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Teddy Roosevelt
+LeaderIcons/Teddy Roosevelt
   rotate: false
   xy: 532, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Tokugawa
+LeaderIcons/Tokugawa
   rotate: false
   xy: 796, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Tomyris
+LeaderIcons/Tomyris
   rotate: false
   xy: 1060, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Trajan
+LeaderIcons/Trajan
   rotate: false
   xy: 1060, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Victoria
+LeaderIcons/Victoria
   rotate: false
   xy: 1324, 4
   size: 256, 256
@@ -1379,28 +1379,28 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-LeaderPortraits/Wilfrid Laurier
+LeaderIcons/Wilfrid Laurier
   rotate: false
   xy: 4, 1524
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Wilhelmina
+LeaderIcons/Wilhelmina
   rotate: false
   xy: 4, 1260
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Wu Zetian
+LeaderIcons/Wu Zetian
   rotate: false
   xy: 4, 468
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderPortraits/Yongle
+LeaderIcons/Yongle
   rotate: false
   xy: 4, 204
   size: 256, 256
