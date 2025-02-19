@@ -18,7 +18,7 @@ ImprovementPortraits/Camp
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Abraham Lincoln
+LeaderIcons/Marcos
   rotate: false
   xy: 4, 1068
   size: 256, 256
@@ -53,28 +53,28 @@ LeaderIcons/Ba Trieu
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Basil II
+LeaderIcons/Davi Said
   rotate: false
   xy: 796, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Catherine de Medici
+LeaderIcons/Pricylla
   rotate: false
   xy: 532, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Chandragupta
+LeaderIcons/Joana
   rotate: false
   xy: 1324, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Cleopatra
+LeaderIcons/Cris
   rotate: false
   xy: 1324, 268
   size: 256, 256
@@ -402,7 +402,7 @@ LeaderIcons/Gilgamesh
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Gitarja
+LeaderIcons/Cláudia
   rotate: false
   xy: 1324, 1324
   size: 256, 256
@@ -1470,7 +1470,7 @@ LeaderIcons/Wilfrid Laurier
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Wilhelmina
+LeaderIcons/Valdeci
   rotate: false
   xy: 1588, 996
   size: 256, 256
