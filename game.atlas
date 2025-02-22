@@ -123,7 +123,7 @@ ResourcePortraits/Amber
   orig: 256, 256
   offset: 0, 0
   index: -1
-ResourcePortraits/Antiquity Site
+ImprovementPortraits/Ancient ruins
   rotate: false
   xy: 268, 804
   size: 256, 256
@@ -451,7 +451,7 @@ ReligionPortraits/Hinduism
   orig: 256, 256
   offset: 0, 0
   index: -1
-ResourcePortraits/Crabs
+ResourcePortraits/Crab
   rotate: false
   xy: 4, 1588
   size: 256, 256
@@ -465,7 +465,7 @@ ResourcePortraits/Deer
   orig: 256, 256
   offset: 0, 0
   index: -1
-ResourcePortraits/Diamonds
+ResourcePortraits/Gems
   rotate: false
   xy: 268, 1324
   size: 256, 256
