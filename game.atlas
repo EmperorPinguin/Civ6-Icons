@@ -83,14 +83,14 @@ BuildingPortraits/Aquatics Center
   index: -1
 BuildingPortraits/Aqueduct
   rotate: false
-  xy: 1324, 796
+  xy: 1060, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingPortraits/Bath
   rotate: false
-  xy: 1324, 796
+  xy: 1060, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -300,7 +300,7 @@ TileSets/Minimal/Tiles/Airstrip
   index: -1
 TileSets/Minimal/Tiles/Aqueduct
   rotate: false
-  xy: 1060, 532
+  xy: 1324, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -900,7 +900,7 @@ BuildingPortraits/Cristo Redentor
   index: -1
 BuildingPortraits/Dam
   rotate: false
-  xy: 1324, 796
+  xy: 1060, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -1187,7 +1187,7 @@ TileSets/Minimal/Tiles/Copacabana
   index: -1
 TileSets/Minimal/Tiles/Dam
   rotate: false
-  xy: 1060, 532
+  xy: 1324, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -1576,6 +1576,20 @@ UnitActionPortraits/FoundReligion
   orig: 256, 256
   offset: 0, 0
   index: -1
+OtherIcons/Fortify
+  rotate: false
+  xy: 1588, 1060
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/Fortify
+  rotate: false
+  xy: 1588, 1060
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 ReligionPortraits/Eastern Orthodoxy
   rotate: false
   xy: 532, 1588
@@ -1649,20 +1663,6 @@ UnitActionPortraits/Escort
 OtherIcons/Link
   rotate: false
   xy: 532, 796
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Fortify
-  rotate: false
-  xy: 1588, 1060
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-OtherIcons/Fortify
-  rotate: false
-  xy: 1588, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -2387,6 +2387,13 @@ UnitActionPortraits/HideMore
   offset: 0, 0
   index: -1
 UnitActionPortraits/HurryConstruction
+  rotate: false
+  xy: 796, 1324
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+NotificationIcons/PickConstruction
   rotate: false
   xy: 796, 1324
   size: 256, 256
@@ -3859,6 +3866,20 @@ LeaderIcons/Saladin
   orig: 256, 256
   offset: 0, 0
   index: -1
+OtherIcons/Present
+  rotate: false
+  xy: 268, 1060
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/Present
+  rotate: false
+  xy: 268, 1060
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 ReligionPortraits/Protestantism
   rotate: false
   xy: 532, 1060
@@ -3946,20 +3967,6 @@ TileSets/Minimal/Tiles/Quarry
 TileSets/Minimal/Tiles/Railroad
   rotate: false
   xy: 268, 268
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Present
-  rotate: false
-  xy: 268, 1060
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-OtherIcons/Present
-  rotate: false
-  xy: 268, 1060
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -4098,7 +4105,7 @@ BuildingPortraits/Shrine (Gifts of the Nile)
   index: -1
 BuildingPortraits/Spaceport
   rotate: false
-  xy: 532, 4
+  xy: 1588, 1324
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -4197,6 +4204,34 @@ LeaderIcons/Shaka
 LeaderIcons/Simon Boli-var
   rotate: false
   xy: 796, 796
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+OtherIcons/Skip
+  rotate: false
+  xy: 1588, 1588
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/Skip
+  rotate: false
+  xy: 1588, 1588
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+OtherIcons/Sleep
+  rotate: false
+  xy: 532, 268
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/Sleep
+  rotate: false
+  xy: 532, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -4308,7 +4343,7 @@ TileSets/Minimal/Tiles/Solar Farm
   index: -1
 TileSets/Minimal/Tiles/Spaceport
   rotate: false
-  xy: 1588, 1324
+  xy: 532, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -4323,34 +4358,6 @@ TileSets/Minimal/Tiles/Sphinx
 UnitActionPortraits/ShowUnitDestination
   rotate: false
   xy: 532, 796
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Skip
-  rotate: false
-  xy: 1588, 1588
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-OtherIcons/Skip
-  rotate: false
-  xy: 1588, 1588
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Sleep
-  rotate: false
-  xy: 532, 268
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-OtherIcons/Sleep
-  rotate: false
-  xy: 532, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -4599,6 +4606,20 @@ LeaderIcons/Tomyris
   orig: 256, 256
   offset: 0, 0
   index: -1
+OtherIcons/Stop
+  rotate: false
+  xy: 4, 796
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/Stop
+  rotate: false
+  xy: 4, 796
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 ReligionPortraits/Taoism
   rotate: false
   xy: 1324, 1324
@@ -4693,20 +4714,6 @@ TileSets/Minimal/Tiles/Theater Square
 TileSets/Minimal/Tiles/Trading Dome
   rotate: false
   xy: 1588, 4
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Stop
-  rotate: false
-  xy: 4, 796
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-OtherIcons/Stop
-  rotate: false
-  xy: 4, 796
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -4857,41 +4864,6 @@ BuildingPortraits/Zoo
   orig: 256, 256
   offset: 0, 0
   index: -1
-ImprovementPortraits/Background
-  rotate: false
-  xy: 1271, 289
-  size: 192, 192
-  orig: 192, 192
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Background
-  rotate: false
-  xy: 1271, 289
-  size: 192, 192
-  orig: 192, 192
-  offset: 0, 0
-  index: -1
-ResourcePortraits/Background
-  rotate: false
-  xy: 1271, 289
-  size: 192, 192
-  orig: 192, 192
-  offset: 0, 0
-  index: -1
-UnitActionPortraits/Background
-  rotate: false
-  xy: 1271, 289
-  size: 192, 192
-  orig: 192, 192
-  offset: 0, 0
-  index: -1
-UnitPortraits/Background
-  rotate: false
-  xy: 1271, 289
-  size: 192, 192
-  orig: 192, 192
-  offset: 0, 0
-  index: -1
 ImprovementPortraits/Wind Farm
   rotate: false
   xy: 796, 1228
@@ -5037,6 +5009,41 @@ ReligionPortraits/Zoroastrianism
   xy: 1588, 964
   size: 256, 256
   orig: 256, 256
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Background
+  rotate: false
+  xy: 1271, 289
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Background
+  rotate: false
+  xy: 1271, 289
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Background
+  rotate: false
+  xy: 1271, 289
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+UnitActionPortraits/Background
+  rotate: false
+  xy: 1271, 289
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+UnitPortraits/Background
+  rotate: false
+  xy: 1271, 289
+  size: 192, 192
+  orig: 192, 192
   offset: 0, 0
   index: -1
 ResourcePortraits/Military Policy Slots
@@ -5477,20 +5484,6 @@ EmojiIcons/Turn
   xy: 1345, 252
   size: 50, 50
   orig: 50, 50
-  offset: 0, 0
-  index: -1
-NotificationIcons/PickConstruction
-  rotate: false
-  xy: 1624, 696
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-StatIcons/Production
-  rotate: false
-  xy: 1624, 696
-  size: 100, 100
-  orig: 100, 100
   offset: 0, 0
   index: -1
 OtherIcons/Capital
@@ -6048,12 +6041,19 @@ StatIcons/Malcontent
   index: -1
 StatIcons/Population
   rotate: false
-  xy: 1732, 696
+  xy: 1624, 696
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Specialist
+  rotate: false
+  xy: 1624, 696
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Production
   rotate: false
   xy: 1732, 696
   size: 100, 100
