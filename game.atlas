@@ -5563,13 +5563,6 @@ EmojiIcons/Science
   orig: 50, 50
   offset: 0, 0
   index: -1
-EmojiIcons/Star
-  rotate: false
-  xy: 1684, 1554
-  size: 125, 125
-  orig: 125, 125
-  offset: 0, 0
-  index: -1
 EmojiIcons/Turn
   rotate: false
   xy: 1564, 1207
@@ -5589,6 +5582,20 @@ StatIcons/Production
   xy: 448, 67
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+OtherIcons/Capital
+  rotate: false
+  xy: 1684, 1554
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+OtherIcons/Star
+  rotate: false
+  xy: 1684, 1554
+  size: 125, 125
+  orig: 125, 125
   offset: 0, 0
   index: -1
 OtherIcons/ConvertCulture
