@@ -3566,7 +3566,7 @@ TileSets/Minimal/Tiles/Pasture
   orig: 256, 256
   offset: 0, 0
   index: -1
-UnitActionPortraits/ParaDrop
+UnitActionPortraits/Paradrop
   rotate: false
   xy: 796, 268
   size: 256, 256
