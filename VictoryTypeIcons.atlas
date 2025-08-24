@@ -1,0 +1,48 @@
+
+VictoryTypeIcons.png
+size: 2048, 256
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+VictoryTypeIcons/Cultural
+  rotate: false
+  xy: 4, 4
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+VictoryTypeIcons/Diplomatic
+  rotate: false
+  xy: 232, 4
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+VictoryTypeIcons/Domination
+  rotate: false
+  xy: 460, 4
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+VictoryTypeIcons/Religious
+  rotate: false
+  xy: 688, 4
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+VictoryTypeIcons/Scientific
+  rotate: false
+  xy: 916, 4
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+VictoryTypeIcons/Time
+  rotate: false
+  xy: 1144, 4
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
